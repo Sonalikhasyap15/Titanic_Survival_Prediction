@@ -1,2 +1,2 @@
 # Titanic_Survival_Prediction
-![GIF](readme_resources/titanic.GIF)
+![GIF](readme_resource/titanic.GIF)
